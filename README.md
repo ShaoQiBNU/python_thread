@@ -1,10 +1,12 @@
 python多线程
 ===========
 
-* 参考链接 *
+## 参考链接
 https://morvanzhou.github.io/tutorials/python-basic/threading/4-queue/
 https://www.jianshu.com/p/f58ff94ec92b
 
+
+## 代码如下：
 
 ```python
 ######################### load packages ########################
